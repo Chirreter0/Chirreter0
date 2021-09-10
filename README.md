@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chirreter0
 - 👀 I’m interested in learn programming
 - 🌱 I’m currently learning Java, C++, Python
-- 💞️ I’m looking to collaborate on collaborate on everything
+- 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me chirretero2998@gmail.com
 
 <!---
